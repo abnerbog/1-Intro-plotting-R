@@ -3,7 +3,7 @@ title: 'Chapter 1: Plotting Demo'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
-github: https://github.com/VT-Hydroinformatics/Front_Matter
+github: https://github.com/VT-Hydroinformatics/1-Intro-plotting-R
 ---
 
 
