@@ -1,6 +1,11 @@
-# Chapter 1: Plotting Demo
-JP Gannon
-2026-02-12
+---
+title: 'Chapter 1: Plotting Demo'
+date: today
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/Front_Matter
+---
+
 
 # Intro to Plotting
 

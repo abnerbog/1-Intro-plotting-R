@@ -1,10 +1,9 @@
 ---
 title: "Chapter 1: Plotting Demo"
 date: today
-author: JP Gannon
-format: gfm
-execute:
-  enabled: true
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/Front_Matter
 ---
 
 # Intro to Plotting
