@@ -17,13 +17,9 @@ affiliations:
     url: https://www.vt.edu/
 subject: Courseware
 github: https://github.com/VT-Hydroinformatics/1-Intro-plotting-R
-exports:
-  - format: pdf
-    id: hydroinformatics-chapter1-pdf
-    output: exports/hydroinformatics-chapter1.pdf
 downloads:
-  - id: hydroinformatics-chapter1-pdf
-    title: Download this page as a PDF
+  - file: 01-Plotting_Demo.md
+  - file: 01-Plotting_Demo_COMPLETE.pdf
 ---
 
 # Intro to Plotting
