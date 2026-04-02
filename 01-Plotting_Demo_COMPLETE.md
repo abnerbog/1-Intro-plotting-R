@@ -18,7 +18,7 @@ affiliations:
 subject: Courseware
 github: https://github.com/VT-Hydroinformatics/1-Intro-plotting-R
 downloads:
-  - file: 01-Plotting_Demo.md
+  - file: 01-Plotting_Demo_COMPLETE.md
   - file: 01-Plotting_Demo_COMPLETE.pdf
 ---
 
