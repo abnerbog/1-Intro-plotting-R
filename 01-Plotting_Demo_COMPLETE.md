@@ -3,7 +3,27 @@ title: 'Chapter 1: Plotting Demo'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
 github: https://github.com/VT-Hydroinformatics/1-Intro-plotting-R
+exports:
+  - format: pdf
+    id: hydroinformatics-chapter1-pdf
+    output: exports/hydroinformatics-chapter1.pdf
+downloads:
+  - id: hydroinformatics-chapter1-pdf
+    title: Download this page as a PDF
 ---
 
 
