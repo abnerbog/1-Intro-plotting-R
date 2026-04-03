@@ -16,6 +16,10 @@ affiliations:
     name: Virginia Tech
     url: https://www.vt.edu/
 subject: Courseware
+doi: https://doi.org/10.4211/hs.7bb434513d89428d9eba918712de88ba
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/7bb434513d89428d9eba918712de88ba/
 github: https://github.com/VT-Hydroinformatics/1-Intro-plotting-R
 downloads:
   - file: 01-Plotting_Demo_COMPLETE.md
